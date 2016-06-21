@@ -12,7 +12,11 @@ This repo is aimed to make up limited course resouces about robotics in some uni
 * [Computational principles of mobile robotics](http://110.65.147.72/NTRdrBookRetrInfo.aspx?BookRecno=1000019523)
 * ROS by Example Indigo Volume 1 & 2
 
-###On-line Courses###
+###Books about Mathematics###
+* [Linear Algebra Done Right](http://link.springer.com/book/10.1007%2F978-3-319-11080-6)
+* [Linear Estimation](https://www.amazon.com/Linear-Estimation-Thomas-Kailath/dp/0130224642)
+
+###Online Courses###
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
 * [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **University of Pennsylvania**
