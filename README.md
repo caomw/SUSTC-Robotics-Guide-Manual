@@ -1,4 +1,4 @@
-# SUSTC-Robotics-Reference-Books
+# SUSTC-Robotics-Guide-Manual
 
 This is a repo about some robotics learning resources. 
 This repo is aimed to make up limited course resouces about Robotics in some univercities (especially in SUSTC).
@@ -20,5 +20,6 @@ This repo is aimed to make up limited course resouces about Robotics in some uni
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
 * [Control of Mobile Robots](https://www.coursera.org/course/conrob) **Coursera**
 * [Robotics Specialization by GRASP Lab](https://www.coursera.org/specializations/robotics) **University of Pennsylvania**
-* [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0)
-* [Underactuated Robotics](https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0)
+* [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
+* [Underactuated Robotics](https://www.edx.org/course/underactuated-robotics-mitx-6-832x-0) **edX**
+* [Multiple View Geometry](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) **Technical University of Munich**
